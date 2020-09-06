@@ -1,0 +1,55 @@
+body { 
+background: #F6f6f6; 
+color:grey;
+ }
+.navbar-default{ 
+    background-color:white;
+    height: 80px;
+    border-bottom: 1px solid black;
+}
+.navbar-brand  { 
+     height: 80px; 
+padding: 10px;
+font-size: 2em;
+color:black; 
+line-height: inherit;
+     vertical-align: baseline;
+
+
+}
+
+
+
+
+h1{ 
+    margin-bottom: 60px;
+}
+.main-content { 
+  
+    margin:auto; 
+    box-sizing: border-box;
+    margin-bottom: 25px;
+
+
+}
+.main-content div {
+    padding: 20px;
+}
+
+#chicken div{ 
+background-color:#FFEE80;
+    
+}
+
+#beef div{ 
+    background-color:#FFB280;
+}
+#sushi div { 
+    background-color:#56FF75;
+}
+
+#nav .navbar-collapse{
+    background: white;
+   
+ 
+}
